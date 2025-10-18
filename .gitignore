@@ -1,2 +1,4 @@
 ignore_*
 .ipynb_checkpoints
+*.png
+*.csv
